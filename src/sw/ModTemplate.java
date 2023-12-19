@@ -1,7 +1,7 @@
-package template;
+package sw;
 
 import mindustry.mod.*;
-import template.gen.*;
+import sw.gen.*;
 
 public class ModTemplate extends Mod{
     @Override
